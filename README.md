@@ -33,3 +33,11 @@ put mail credentials in .env file
 
 - Run command npm run watch
 
+### Regular User Credentials:
+- Vouchder Code: ABCD345
+- Product Code: HPLaptopXYZBundle
+
+### Admin User Credentials:
+- Email: admin@admin.com
+- Password: adminadmin
+
