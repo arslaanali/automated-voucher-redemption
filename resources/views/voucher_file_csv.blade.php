@@ -12,6 +12,14 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-body">
+                    @if (isset($errors) && $errors->any())
+                        <div class="alert alert-danger">
+                            @foreach ($errors->all() as $error)
+                                {{ $error }}
+                            @endforeach
+                        </div>
+                    @endif
+                    
                     <h2> <b>Vouchers </b> </h2>
                     <div class="container-xl">
 								<div class="table-responsive">
