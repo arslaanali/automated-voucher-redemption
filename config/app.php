@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Automated Voucher Redemption'),
+    'name' => env('APP_NAME', 'AVR'),
 
     /*
     |--------------------------------------------------------------------------
