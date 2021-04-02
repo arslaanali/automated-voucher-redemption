@@ -1,4 +1,11 @@
-## Laravel 7 multiple authentication system
+## Automated Voucher Redemption System
+
+![N|Solid](https://www.narsun.pk/img/footerLogo.png)
+
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+## Installation Instructions
 
 ## Install composer packages
 ```
@@ -24,11 +31,14 @@ visit at : https://mailtrap.io/
 put mail credentials in .env file
 ```
 
-## Facing any problem? Contact with me
+## For Vue JS
 
-Click on the image bellow to see YouTube video.
+- run npm install
 
-[![Laravel 7 Multi Auth](https://img.youtube.com/vi/qXYa-TIrzr8/0.jpg)](https://www.youtube.com/watch?v=qXYa-TIrzr8) 
+## For admin login:
 
-Please visit my website.
-[samironbarai.com](https://samironbarai.com) 
+- email: admin@admin.com
+- password: adminadmin
+
+
+
